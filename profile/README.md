@@ -1,4 +1,4 @@
-# 🦁Likelion 12th _ hackathon _ 5team
+# 🦁Likelion 12th _ hackathon _ 7team
 
 > **주제** : 미정
 
