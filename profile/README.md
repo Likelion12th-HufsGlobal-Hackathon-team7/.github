@@ -1,4 +1,4 @@
-# 🦁Likelion 12th _ hackathon _ 7team
+# 🦁Likelion 12th _ hackathon _ 7team : LGTU (Look Good To Us)
 
 > **주제** : 스포츠 게임 참여를 통한 건강한 도파민, 리워드 획득 서비스
 
