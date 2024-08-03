@@ -3,12 +3,75 @@
 > **주제** : 스포츠 게임 참여를 통한 건강한 도파민, 리워드 획득 서비스
 
 #### 👥 팀원
-- **유지희** : 팀장 | FE
-- **이수혁** : 팀원 | BE
-- **김민석** : 팀원 | FE
-- **고선민** : 팀원 | BE
-- **박혜주** : 팀원 | BE
-- **홍수지** : 팀원 | FE
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/jiHeeFlee">
+    <img src="https://avatars.githubusercontent.com/u/126383608?v=4" width="150px;" alt="지희"/>
+    <br />
+    <sub>
+    <b>유지희</b><br>
+    <b>팀장 / 🍎 FE</b>
+    </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/leestana01">
+    <img src="https://avatars.githubusercontent.com/u/74558236?v=4" width="150px;" alt="수혁"/>
+    <br />
+    <sub>
+    <b>이수혁</b><br>
+    <b>부팀장 / 🍏 BE</b>
+    </sub>
+    </a>
+    <br />
+    </td>    
+    <td align="center">
+    <a href="https://github.com/m-inseok">
+    <img src="https://avatars.githubusercontent.com/u/163662784?v=4" width="150px;" alt="민석"/>
+    <br />
+    <sub>
+    <b>김민석</b><br>
+    <b>🍎 FE</b>
+    </sub>
+    </a>
+    <br />
+    </td>    
+    <td align="center">
+    <a href="https://github.com/norangsuji">
+    <img src="https://avatars.githubusercontent.com/u/118612460?v=4" width="150px;" alt="수"/>
+    <br />
+    <sub>
+    <b>홍수지</b><br>
+    <b>🍎 FE</b>
+    </sub>
+    </a>
+    <br />
+    </td> <td align="center">
+    <a href="https://github.com/202201617">
+    <img src="https://avatars.githubusercontent.com/u/113917440?v=4" width="150px;" alt="혜주"/>
+    <br />
+    <sub>
+    <b>박혜주</b><br>
+    <b>🍏 BE</b>
+    </sub>
+    </a>
+    <br />
+    </td>
+    <td align="center">
+    <a href="https://github.com/sunmin416">
+    <img src="https://avatars.githubusercontent.com/u/163655093?v=4" width="150px;" alt="선민"/>
+    <br />
+    <sub>
+    <b>고선민</b><br>
+    <b>🍏 BE</b>
+    </sub>
+    </a>
+    <br />
+    </td>
+  </tr>
+</table>
 
 #### 📦 기술스택
 ###### 👩‍💻 Front-End
