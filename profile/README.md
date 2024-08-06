@@ -75,24 +75,10 @@
 </table>
 
 #### 📦 기술스택
-###### 👩‍💻 Front-End
-&nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/WebSocket%20%26%20STOMP-00A9E0?style=flat&logoColor=white">
-###### 💿 Back-End
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/WebSocket%20%26%20STOMP-00A9E0?style=flat&logoColor=white">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefik&logoColor=white">
-<img src="https://img.shields.io/badge/CertManager-006bb6?style=flat&logo=letsencrypt&logoColor=white">
+|  | **👩‍💻 Front-End** | **💿 Back-End** |
+|--------------------------------------------------| ---------- |---------- |
+| **tool**                                         | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/WebSocket%20%26%20STOMP-00A9E0?style=flat&logoColor=white"> | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/WebSocket%20%26%20STOMP-00A9E0?style=flat&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefik&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CertManager-006bb6?style=flat&logo=letsencrypt&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"> &nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"> &nbsp; |
 
-<!-- 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"> 
--->
 ###### ⚙️ Development Tools
 &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
