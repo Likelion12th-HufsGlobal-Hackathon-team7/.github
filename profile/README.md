@@ -4,62 +4,6 @@
 
 > **주제** : 스포츠 게임 참여를 통한 건강한 도파민, 리워드 획득 서비스
 
-#### 🌟 핵심 기능
-<table>
-  <tr>
-    <td align="center">
-    <sub>
-    <b>1️⃣ 게임 세팅</b><br>
-    </sub>
-    <a href="https://github.com/jiHeeFlee">
-    <img src="https://avatars.githubusercontent.com/u/126383608?v=4" width="150px;" alt="지희"/>
-    <br />
-    </a>
-    <br />
-    </td>
-    <td align="center">
-    <sub>
-    <b>2️⃣ 게임 진행</b><br>
-    </sub>
-    <a href="https://github.com/jiHeeFlee">
-    <img src="https://avatars.githubusercontent.com/u/126383608?v=4" width="150px;" alt="지희"/>
-    <br />
-    </a>
-    <br />
-    </td>
-    <td align="center">
-    <sub>
-    <b>3️⃣ 게임 종료</b><br>
-    </sub>
-    <a href="https://github.com/jiHeeFlee">
-    <img src="https://avatars.githubusercontent.com/u/126383608?v=4" width="150px;" alt="지희"/>
-    <br />
-    </a>
-    <br />
-    </td>
-    <td align="center">
-    <sub>
-    <b>4️⃣ 게임 결과</b><br>
-    </sub>
-    <a href="https://github.com/jiHeeFlee">
-    <img src="https://avatars.githubusercontent.com/u/126383608?v=4" width="150px;" alt="지희"/>
-    <br />
-    </a>
-    <br />
-    </td>
-    <td align="center">
-    <sub>
-    <b>5️⃣ 획득 포인트 사용</b><br>
-    </sub>
-    <a href="https://github.com/jiHeeFlee">
-    <img src="https://avatars.githubusercontent.com/u/126383608?v=4" width="150px;" alt="지희"/>
-    <br />
-    </a>
-    <br />
-    </td>
-  </tr>
-</table>
-
 #### 👥 팀원
 <table>
   <tr>
